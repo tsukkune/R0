@@ -1,0 +1,1 @@
+une branche permet de faire avancer le code, de son coter sans impacter les autres durant le devellopement d'une fonctionalité
