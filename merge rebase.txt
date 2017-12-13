@@ -1,0 +1,2 @@
+merge fusionne une branche dans une autre
+rebase redefinit la bse d'une branche, il rejout des commit depuis une base
