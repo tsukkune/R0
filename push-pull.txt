@@ -1,0 +1,3 @@
+pull- recuperer sur le serveur
+push- envoyer sur le serveur apres commit
+commit - envoyer les modif sur la branche en local
